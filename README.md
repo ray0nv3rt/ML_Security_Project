@@ -19,6 +19,7 @@
     └── anonymous_2_bd_weights.h5
     └── anonymous_2_pruned.h5               # BadNet model after processing pruning
     └── anonymous_2_repaired.h5             # BadNet model after processing retraining
+    └── baseline_net.h5                     # Baseline model used for pruning 
     └── sunglasses_bd_net.h5
     └── sunglasses_bd_weights.h5
     └── sunglasses_pruned.h5                # BadNet model after processing pruning
